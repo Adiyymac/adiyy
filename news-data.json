@@ -1,0 +1,12 @@
+[
+    {
+      "title": "News Article 1",
+      "image": "image1.jpg",
+      "text": "Lorem ipsum dolor sit amet..."
+    },
+    {
+      "title": "News Article 2",
+      "image": "image2.jpg",
+      "text": "Lorem ipsum dolor sit amet..."
+    }
+  ]
